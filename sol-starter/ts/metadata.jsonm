@@ -1,0 +1,19 @@
+{
+    name: "Red Rug",
+    symbol: "RDRG",
+    description: "A Red Rug",
+    image: "https://arweave.net/Uuu71IpZb7Y_ZF-04pzws01EgztYE_HUHg7laYKYbu8",
+    attributes: [
+        {trait_type: 'background', value: '#FAE7ED'},
+        {trait_type: 'color', value: '#C80D46'}
+    ],
+    properties: {
+        files: [
+            {
+                type: "image/png",
+                uri: "https://arweave.net/Uuu71IpZb7Y_ZF-04pzws01EgztYE_HUHg7laYKYbu8"
+            },
+        ]
+    },
+    creators: [keypair.publicKey]
+}
